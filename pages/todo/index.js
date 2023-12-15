@@ -49,7 +49,7 @@ export default function ToDo() {
   
   return (
     <div className="min-h-screen h-full w-auto bg-slate-50 flex justify-center items-center">
-      <div className="relative mt-2 w-full sm:w-1/2 md:w-1/3 min-h-screen h-full bg-white">
+      <div className="relative mt-2 w-full sm:w-4/5 md:w-1/2 min-h-screen h-full bg-white">
         <div className="flex justify-center gap-4">
           <input
             value={taskInput}
